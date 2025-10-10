@@ -87,5 +87,5 @@ Il bot girerà in **modalità simulata**, generando segnali e notifiche Telegram
 ## Autore
 
 Omarinho12345
-Vuoi che faccia quella versione?
 ```
+(:
